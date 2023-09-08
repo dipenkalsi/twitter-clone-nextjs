@@ -1,0 +1,1 @@
+This is a project I created using next.js, MongoDB, prisma and tailwindCSS
